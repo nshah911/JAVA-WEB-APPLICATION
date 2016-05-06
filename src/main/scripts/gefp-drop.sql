@@ -1,0 +1,11 @@
+drop table authorities cascade;
+drop table checkpoint cascade;
+drop table department cascade;
+drop table plan cascade;
+drop table plan_checkpoint cascade;
+drop table runway cascade;
+drop table stage cascade;
+drop table users cascade;
+drop table users_authorities cascade;
+drop table users_checkpoint cascade;
+drop sequence hibernate_sequence;
